@@ -72,6 +72,6 @@ Through this project, I strengthened my practical understanding of:
 ---
 
 ## 👤 Author
-* **Name:** [Your Full Name]
+* **Name:** Aditya Salish
 * **Portfolio / Credentials:** Google Cybersecurity Professional Certificate
-* **LinkedIn:** [Link to your LinkedIn Profile]
+* **LinkedIn:** https://www.linkedin.com/in/adityasalish/
